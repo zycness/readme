@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Kevin Flores</h1>
 <h3 align="center">Un desarrollador front-end enfocado en adquirir conocimientos</h3>
 
-- 🌱 Actualmente estoy estudiando: **React.js - Hooks - Mantine ui**
+- 🌱 Actualmente me desarrollo en: **REACT.JS (HOOKS) - JAVASCRIPT - CSS3 - HTML5 - FRAMER MOTION**
 
-- 👨‍💻 Todos mis proyectos están en... [https://portafolio-kevinnahuelf.vercel.app/](https://portafolio-kevinnahuelf.vercel.app/)
+- 👨‍💻 Puedes ver mis trabajos y conocerme en... [Portafolio](https://portafolio-kevinnahuelf.vercel.app/)
 
 - 📫 ¿Cómo contactarme? **kevinflores2322002@gmail.com**
 
