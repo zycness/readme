@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Kevin Flores</h1>
 <h3 align="center">Un desarrollador front-end enfocado en adquirir conocimientos</h3>
 
-- 🌱 Actualmente me desarrollo en: **REACT.JS (HOOKS) - JAVASCRIPT - CSS3 - HTML5 - FRAMER MOTION**
+- 🌱 Actualmente me desarrollo en: **REACT.JS (HOOKS) - NODEJS - EXPRESSJS - MONGODB - JAVASCRIPT - CSS3 - HTML5 - FRAMER MOTION **
 
 - 👨‍💻 Puedes ver mis trabajos y conocerme en mi: [Portafolio](https://portafolio-kevinnahuelf.vercel.app/)
 
