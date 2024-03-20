@@ -1,8 +1,5 @@
-<h1 align="center">Hola 👋, soy Kevin Flores</h1>
+<h1 align="center">Hola 👋, soy Kevin Flores SSR Software Engineer</h1>
 <h3 align="center">Un desarrollador enfocado en adquirir conocimientos</h3>
-
-- 🌱 Actualmente soy **SSR Software Engineer en Adviters**
-
 - 👨‍💻 Puedes ver mis trabajos y conocerme en mi: [Portafolio](https://portfolio-kf.vercel.app/)
 
 - 📫 ¿Cómo contactarme? **kevinflores2322002@gmail.com**
