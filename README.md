@@ -1,6 +1,4 @@
 <h1 align="center">Hola 👋, soy Kevin Flores</h1>
-<h3 align="center">Un desarrollador enfocado en adquirir conocimientos</h3>
-
 - 💻 SSR Software Engineer
 
 - 👨‍💻 Puedes ver mis trabajos y conocerme en mi: [Portafolio](https://portfolio-kf.vercel.app/)
